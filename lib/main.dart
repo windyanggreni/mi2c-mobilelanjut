@@ -2,6 +2,8 @@
 import 'package:flutter/material.dart';
 import 'package:project2/screen_page/page_beranda.dart';
 import 'package:project2/screen_page/page_form_register.dart';
+import 'package:project2/screen_page/page_passing_data.dart';
+import 'package:project2/screen_page/page_register_api.dart';
 
 import 'tugas/latihansatu2201091014.dart';
 
